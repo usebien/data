@@ -1,0 +1,51 @@
+﻿ID;Gender;Age;Customer Type;Type of Travel;Class;Flight Distance;Departure Delay;Arrival Delay;Satisfaction
+1;Male;48;First-time;Business;Business;821;2;5;Neutral or Dissatisfied
+2;Female;35;Returning;Business;Business;821;26;39;Satisfied
+3;Male;41;Returning;Business;Business;853;0;0;Satisfied
+4;Male;50;Returning;Business;Business;1905;0;0;Satisfied
+5;Female;49;Returning;Business;Business;3470;0;1;Satisfied
+6;Male;43;Returning;Business;Business;3788;0;0;Satisfied
+7;Male;43;Returning;Business;Business;1963;0;0;Satisfied
+8;Female;60;Returning;Business;Business;853;0;3;Satisfied
+9;Male;50;Returning;Business;Business;2607;0;0;Neutral or Dissatisfied
+10;Female;38;Returning;Business;Business;2822;13;0;Satisfied
+11;Female;28;First-time;Business;Business;821;0;5;Neutral or Dissatisfied
+12;Female;27;First-time;Business;Business;421;20;21;Neutral or Dissatisfied
+13;Male;24;First-time;Business;Economy;453;16;30;Neutral or Dissatisfied
+14;Male;9;Returning;Personal;Business;853;68;76;Neutral or Dissatisfied
+15;Male;52;Returning;Personal;Economy;853;0;0;Neutral or Dissatisfied
+16;Male;70;Returning;Personal;Economy;821;0;0;Neutral or Dissatisfied
+17;Female;48;Returning;Personal;Economy;821;0;0;Neutral or Dissatisfied
+18;Female;61;Returning;Personal;Economy;821;0;0;Neutral or Dissatisfied
+19;Female;11;Returning;Personal;Economy;853;0;0;Neutral or Dissatisfied
+20;Female;42;Returning;Personal;Economy;821;4;0;Neutral or Dissatisfied
+21;Female;14;Returning;Personal;Economy;853;12;1;Neutral or Dissatisfied
+22;Female;70;Returning;Personal;Economy;853;0;0;Neutral or Dissatisfied
+23;Female;56;Returning;Personal;Economy;821;0;0;Neutral or Dissatisfied
+24;Male;77;Returning;Business;Economy Plus;821;0;0;Neutral or Dissatisfied
+25;Male;51;Returning;Business;Business;3460;0;2;Satisfied
+26;Male;47;Returning;Business;Business;1676;0;15;Satisfied
+27;Male;50;Returning;Business;Business;2168;6;24;Satisfied
+28;Male;58;Returning;Business;Business;2867;0;0;Satisfied
+29;Male;40;Returning;Business;Business;3734;0;52;Satisfied
+30;Male;48;Returning;Business;Business;3088;0;12;Satisfied
+31;Male;35;First-time;Business;Business;212;0;0;Neutral or Dissatisfied
+32;Male;21;First-time;Business;Economy;173;0;0;Satisfied
+33;Female;33;First-time;Business;Business;173;22;28;Neutral or Dissatisfied
+34;Female;48;Returning;Business;Business;173;0;0;Satisfied
+35;Male;39;Returning;Business;Business;1672;23;17;Satisfied
+36;Female;42;Returning;Business;Business;2884;0;0;Satisfied
+37;Female;54;Returning;Business;Business;212;12;26;Satisfied
+38;Female;51;Returning;Business;Business;215;0;0;Satisfied
+39;Female;46;Returning;Business;Business;67;0;0;Satisfied
+40;Male;51;Returning;Business;Business;212;0;0;Satisfied
+41;Female;54;Returning;Business;Business;1554;59;70;Satisfied
+42;Female;45;Returning;Business;Business;108;0;0;Satisfied
+43;Female;54;Returning;Business;Business;1584;0;8;Satisfied
+44;Male;51;Returning;Business;Business;2077;0;1;Satisfied
+45;Male;56;Returning;Business;Business;173;30;14;Satisfied
+46;Female;23;First-time;Business;Economy;173;16;13;Neutral or Dissatisfied
+47;Male;24;First-time;Business;Business;108;0;0;Satisfied
+48;Female;40;First-time;Business;Business;212;29;41;Neutral or Dissatisfied
+49;Male;20;First-time;Business;Economy;108;0;29;Neutral or Dissatisfied
+50;Male;27;First-time;Business;Business;108;0;0;Satisfied
